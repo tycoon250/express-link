@@ -23,7 +23,7 @@ const Nav = () => {
                         <li className="nav-item"><a className="td-none hover-2 black" href="#features">Features</a></li>
                         <li className="nav-item"><a className="td-none hover-2 black" href="#team">Our team</a></li>
                         <li className="nav-item"><a className="td-none hover-2 black" href="#faq">FAQ</a></li>
-                        <li className="nav-item"><a className="td-none hover-2 black" href="#revies">Reviews</a></li>
+                        <li className="nav-item"><a className="td-none hover-2 black" href="#reviews">Reviews</a></li>
                         <li className="nav-item"><a className="td-none hover-2 black" href="#contact">Contact</a></li>
                     </ul>
                 </div>
