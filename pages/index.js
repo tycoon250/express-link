@@ -1,5 +1,7 @@
 import About from './components/about';
+import Contact from './components/contact';
 import FAQ from './components/faq';
+import Footer from './components/footer';
 import HomePage from './components/home';
 import Nav from './components/nav';
 import Reviews from './components/reviews';
@@ -17,6 +19,8 @@ export default function Home() {
             <Team/>
             <FAQ/>
             <Reviews/>
+            <Contact/>
+            <Footer/>
         </div>
     );
 }

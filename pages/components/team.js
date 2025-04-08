@@ -26,7 +26,7 @@ const Team = () => {
                             <div className='iblock mx-10p bsbb'>
                                 <div className='card-1 br-10p ovh p-r iblock w-100 bsbb bfull-resp'>
                                     <div className='w-100 h-100 flex bblock-resp'>
-                                        <div className='w-500p bw-100-resp bh-200p-resp h-470p bc-dgray'> 
+                                        <div className='w-500p bfull-resp bh-200p-resp h-470p bc-dgray'> 
                                         </div>
                                         <div className='w-100 p-10p bsbb'>
                                             <div className='p-20p left'>
