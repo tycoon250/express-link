@@ -21,7 +21,6 @@ const Nav = () => {
                     <ul className="flex ls-none jc-sb py-10p bsbb m-0 w-90">
                         <li className="nav-item"><a className="td-none hover-2 black" href="#about">About</a></li>
                         <li className="nav-item"><a className="td-none hover-2 black" href="#features">Features</a></li>
-                        <li className="nav-item"><a className="td-none hover-2 black" href="#team">Our team</a></li>
                         <li className="nav-item"><a className="td-none hover-2 black" href="#faq">FAQ</a></li>
                         <li className="nav-item"><a className="td-none hover-2 black" href="#reviews">Reviews</a></li>
                         <li className="nav-item"><a className="td-none hover-2 black" href="#contact">Contact</a></li>

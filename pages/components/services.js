@@ -21,7 +21,7 @@ const Services = () => {
                             <div className='card-1 br-10p ovh p-r iblock w-350p bsbb bfull-resp'>
                                 <div className='w-100 h-100'>
                                     <div className='w-100 h-270p bc-dgray'>
-                                        
+                                        <img src='../assets/ambulatory.jpg' className='cover w-100 h-100'/>
                                     </div>
                                     <div className='w-100 center p-10p bsbb'>
                                         <div className='py-20p'>
@@ -40,7 +40,7 @@ const Services = () => {
                             <div className='card-1 br-10p ovh p-r iblock w-350p bsbb bfull-resp'>
                                 <div className='w-100 h-100'>
                                     <div className='w-100 h-270p bc-dgray'>
-                                        
+                                    <img src='../assets/wheel-chair.jpg' className='cover w-100 h-100'/>
                                     </div>
                                     <div className='w-100 center p-10p bsbb'>
                                         <div className='py-20p'>
@@ -59,6 +59,7 @@ const Services = () => {
                             <div className='card-1 br-10p ovh p-r iblock w-350p bsbb bfull-resp'>
                                 <div className='w-100 h-100'>
                                     <div className='w-100 h-270p bc-dgray'>
+                                    <img src='../assets/gurney.jpg' className='cover w-100 h-100'/>
                                         
                                     </div>
                                     <div className='w-100 center p-10p bsbb'>
