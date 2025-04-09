@@ -9,7 +9,7 @@ const Footer = () => {
                     <span class="left capitalize verdana fs-10p dgray p-10p bsbb center">
                         <span class="nowrap dgray fs-11p">
                             <span class="center-2">
-                            &copy; ${new Date().getFullYear()}
+                            &copy;{new Date().getFullYear()}
                                     &nbsp;ExpressLink All Rights Reserved <span class="fs-18p p-5p bsbb center mt--10p">
                                         .
                                         </span>

@@ -25,11 +25,12 @@ const Services = () => {
                                     </div>
                                     <div className='w-100 center p-10p bsbb'>
                                         <div className='py-20p'>
-                                            <span className='fs-30p capitalize ddgray'>Ambulatory</span>
+                                            <span className='fs-25p capitalize ddgray'>Ambulatory Transportation</span>
+                                            <span className='fs-16p dgray block py-20p'>for passengers who can walk on their own or with assistance.</span>
                                             <p className='theme'>
-                                            <a href="#contact" className='td-none hover-2'>
-                                                <button className='capitalize bc-white b-1-s-theme theme br-20p p-10p hover-2'>Contact us</button>  
-                                                </a>
+                                                <a href="#contact" className='td-none hover-2'>
+                                                    <button className='capitalize bc-white b-1-s-theme theme br-20p p-10p hover-2'>Contact us</button>  
+                                                    </a>
                                             </p>
                                         </div>
                                     </div>
@@ -44,7 +45,8 @@ const Services = () => {
                                     </div>
                                     <div className='w-100 center p-10p bsbb'>
                                         <div className='py-20p'>
-                                            <span className='fs-30p capitalize ddgray'>wheelchair</span>
+                                            <span className='fs-25p capitalize ddgray'>Wheelchair Transportation</span>
+                                            <span className='fs-16p dgray block py-20p'>secure, assisted rides for wheelchair users.</span>
                                             <p className='theme'>
                                             <a href="#contact" className='td-none hover-2'>
                                                 <button className='capitalize bc-white b-1-s-theme theme br-20p p-10p hover-2'>Contact us</button>  
@@ -64,7 +66,8 @@ const Services = () => {
                                     </div>
                                     <div className='w-100 center p-10p bsbb'>
                                         <div className='py-20p'>
-                                            <span className='fs-30p capitalize ddgray'>Gurney</span>
+                                            <span className='fs-25p capitalize ddgray'>Gurney/Stretcher Transportation</span>
+                                            <span className='fs-16p dgray block py-20p'>for clients who require transport lying down.</span>
                                             <p className='theme'>
                                             <a href="#contact" className='td-none hover-2'>
                                                 <button className='capitalize bc-white b-1-s-theme theme br-20p p-10p hover-2'>Contact us</button>  

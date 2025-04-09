@@ -17,9 +17,9 @@ const FAQ = () => {
                                 <div className='w-100 h-100'>
                                     <div className='w-100 p-30p bsbb'>
                                         <div className='py-20p'>
-                                            <span className='fs-20p theme capitalize ddgray'>is express link transportation contracted with medicare and/or medicaid?</span>
+                                            <span className='fs-20p theme capitalize ddgray'>Are you partnered with Medicare or Medicaid?</span>
                                             <p className='ddgray py-20p fs-20p'>
-                                                Unfortunately, we do not take Medicare or Medicaid at this time. We hope to be able to partner with them in the near future. We have contracts with facilities we service and take private pay with check or credit card payment.
+                                            Not yet, but we’re working on it. While we currently do not accept Medicare or Medicaid, we collaborate directly with healthcare facilities and offer private pay options.
                                             </p>
                                         </div>
                                     </div>
@@ -32,9 +32,9 @@ const FAQ = () => {
                                     <div className='w-100 p-30p bsbb'>
                                         <div className='py-20p'>
                                             <span className='fs-20p theme capitalize ddgray'>
-                                            can i reserve express link for out of state trips?</span>
+                                            Can I schedule an out-of-state trip?</span>
                                             <p className='ddgray py-20p fs-20p'>
-                                                Yes! express link is available for out of state trips. We can offer multiple day trips too! express links will travel most anywhere and would be happy to give you a quote for any destination.
+                                            Yes! Whether it’s a one-day appointment or a longer journey, we provide long-distance medical transportation with flexible scheduling.
                                             </p>
                                         </div>
                                     </div>
@@ -47,9 +47,9 @@ const FAQ = () => {
                                     <div className='w-100 p-30p bsbb'>
                                         <div className='py-20p'>
                                             <span className='fs-20p theme capitalize ddgray'>
-                                            how do airport transports work?</span>
+                                            How do airport transports work?</span>
                                             <p className='ddgray py-20p fs-20p'>
-                                            Airport Transports work just like any other transport. express link will pick you up, load your bags and transport you to your airline departure point. We will pick you up when you get back as well. Just ask us for a quote
+                                            Just like any other trip. We’ll assist with bags, ensure safe boarding, and be there when you return—just let us know your itinerary.
                                             </p>
                                         </div>
                                     </div>
@@ -62,5 +62,4 @@ const FAQ = () => {
         </div>
     );
 };
-
 export default FAQ;
