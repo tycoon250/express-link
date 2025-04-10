@@ -4,75 +4,71 @@ const Services = () => {
     return (
         <div className='w-100 p-40p bp-10p-resp bsbb' id='features'>
             <div className='w-100 p-20p bsbb'>
-                <span className='py-10p pr-40p bb-4-s-theme capitalize fs-50p'>
-                What Services Do we Provide?</span>
+                <span className='py-10p pr-40p bb-4-s-theme capitalize fs-40p'>
+                    What Services Do We Provide?
+                </span>
             </div>
             <div className='w-90 bfull-resp h-a m-a px-30p py-40p bp-20p-resp bsbb'>
-                <span className='ddgray fs-30p'>
-                If you're navigating life with medical/physical issues or have aging parents, meet your game-changer – express link Medical Transportation!  Non-emergency medical transport that goes the extra mile. Ambulatory, wheelchair, or gurney – we've got it covered. Need a pillow, music, or a lift to the airport? express link's on it, covering a 500-mile radius from Boise, ID. Your loved ones aren't just passengers; they're cared for, comfortable, and secure.  Call express link today for peace of mind, because when it's about your family's well-being, You'll Be Liking The express link! 
-                <p className='theme'>#express linkMedicalTransportation</p>
-                </span>
-
+                <p className='ddgray fs-30p'>
+                    Express Link Medical Transportation offers non-emergency medical transport services tailored to your needs. Whether ambulatory, wheelchair, or gurney transportation, we ensure comfort, care, and security for your loved ones. Serving a 500-mile radius from Boise, ID, we go the extra mile to provide personalized services, including pillows, music, or even airport rides. Choose Express Link for peace of mind and exceptional care.
+                    <span className='theme'>#ExpressLinkMedicalTransportation</span>
+                </p>
             </div>
             <div className='w-100 p-10p bsbb'>
                 <div className='w-70 m-a bfull-resp'>
                     <div className='w-100 iblock'>
+                        {/* Ambulatory Transportation */}
                         <div className='iblock mx-10p bsbb bfull-resp bm-a-resp bp-y-10p-resp'>
                             <div className='card-1 br-10p ovh p-r iblock w-350p bsbb bfull-resp'>
                                 <div className='w-100 h-100'>
                                     <div className='w-100 h-270p bc-dgray'>
-                                        <img src='../assets/ambulatory.jpg' className='cover w-100 h-100'/>
+                                        <img src='../assets/ambulatory.jpg' alt='Ambulatory Transportation' className='cover w-100 h-100'/>
                                     </div>
                                     <div className='w-100 center p-10p bsbb'>
                                         <div className='py-20p'>
-                                            <span className='fs-25p capitalize ddgray'>Ambulatory Transportation</span>
-                                            <span className='fs-16p dgray block py-20p'>for passengers who can walk on their own or with assistance.</span>
-                                            <p className='theme'>
-                                                <a href="#contact" className='td-none hover-2'>
-                                                    <button className='capitalize bc-white b-1-s-theme theme br-20p p-10p hover-2'>Contact us</button>  
-                                                    </a>
-                                            </p>
+                                            <h3 className='fs-25p capitalize ddgray'>Ambulatory Transportation</h3>
+                                            <p className='fs-16p dgray block py-20p'>For passengers who can walk on their own or with assistance.</p>
+                                            <a href="#contact" className='td-none hover-2'>
+                                                <button className='capitalize bc-white b-1-s-theme theme br-20p p-10p hover-2'>Contact Us</button>
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
+                        {/* Wheelchair Transportation */}
                         <div className='iblock mx-10p bsbb bfull-resp bm-a-resp bp-y-10p-resp'>
                             <div className='card-1 br-10p ovh p-r iblock w-350p bsbb bfull-resp'>
                                 <div className='w-100 h-100'>
                                     <div className='w-100 h-270p bc-dgray'>
-                                    <img src='../assets/wheel-chair.jpg' className='cover w-100 h-100'/>
+                                        <img src='../assets/wheel-chair.jpg' alt='Wheelchair Transportation' className='cover w-100 h-100'/>
                                     </div>
                                     <div className='w-100 center p-10p bsbb'>
                                         <div className='py-20p'>
-                                            <span className='fs-25p capitalize ddgray'>Wheelchair Transportation</span>
-                                            <span className='fs-16p dgray block py-20p'>secure, assisted rides for wheelchair users.</span>
-                                            <p className='theme'>
+                                            <h3 className='fs-25p capitalize ddgray'>Wheelchair Transportation</h3>
+                                            <p className='fs-16p dgray block py-20p'>Secure, assisted rides for wheelchair users.</p>
                                             <a href="#contact" className='td-none hover-2'>
-                                                <button className='capitalize bc-white b-1-s-theme theme br-20p p-10p hover-2'>Contact us</button>  
-                                                </a>
-                                            </p>
+                                                <button className='capitalize bc-white b-1-s-theme theme br-20p p-10p hover-2'>Contact Us</button>
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
+                        {/* Gurney/Stretcher Transportation */}
                         <div className='iblock mx-10p bsbb bfull-resp bm-a-resp bp-y-10p-resp'>
                             <div className='card-1 br-10p ovh p-r iblock w-350p bsbb bfull-resp'>
                                 <div className='w-100 h-100'>
                                     <div className='w-100 h-270p bc-dgray'>
-                                    <img src='../assets/gurney.jpg' className='cover w-100 h-100'/>
-                                        
+                                        <img src='../assets/gurney.jpg' alt='Gurney Transportation' className='cover w-100 h-100'/>
                                     </div>
                                     <div className='w-100 center p-10p bsbb'>
                                         <div className='py-20p'>
-                                            <span className='fs-25p capitalize ddgray'>Gurney/Stretcher Transportation</span>
-                                            <span className='fs-16p dgray block py-20p'>for clients who require transport lying down.</span>
-                                            <p className='theme'>
+                                            <h3 className='fs-25p capitalize ddgray'>Gurney/Stretcher Transportation</h3>
+                                            <p className='fs-16p dgray block py-20p'>For clients who require transport lying down.</p>
                                             <a href="#contact" className='td-none hover-2'>
-                                                <button className='capitalize bc-white b-1-s-theme theme br-20p p-10p hover-2'>Contact us</button>  
-                                                </a>
-                                            </p>
+                                                <button className='capitalize bc-white b-1-s-theme theme br-20p p-10p hover-2'>Contact Us</button>
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
