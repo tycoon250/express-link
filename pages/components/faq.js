@@ -13,7 +13,7 @@ const FAQ = () => {
                 <div className=''>
                     <div className='w-100 flex bblock-resp'>
                         <div className='iblock mx-10p bsbb h-400p -resp'>
-                            <div className='br-1-s-theme ovh p-r iblock w-a bsbb bfull-resp px-20p bsbb h-100'>
+                            <div className='br-1-s-theme bb-none-resp ovh p-r iblock w-a bsbb bfull-resp px-20p bsbb h-100'>
                                 <div className='w-100 h-100'>
                                     <div className='w-100 p-30p bsbb'>
                                         <div className='py-20p'>
@@ -27,7 +27,7 @@ const FAQ = () => {
                             </div>
                         </div>
                         <div className='iblock mx-10p bsbb h-400p -resp'>
-                            <div className='br-1-s-theme ovh p-r iblock w-a bsbb bfull-resp px-20p bsbb h-100'>
+                            <div className='br-1-s-theme bb-none-resp ovh p-r iblock w-a bsbb bfull-resp px-20p bsbb h-100'>
                                 <div className='w-100 h-100'>
                                     <div className='w-100 p-30p bsbb'>
                                         <div className='py-20p'>

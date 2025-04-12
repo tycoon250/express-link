@@ -4,7 +4,7 @@ const Reviews = () => {
     return (
         <div className='w-100 p-40p bp-10p-resp bsbb' id='reviews'>
             <div className='w-100 p-20p bsbb mb-40p'>
-                <span className='py-10p pr-40p bb-4-s-theme capitalize fs-50p'>A few customer reviews.</span>
+                <span className='py-10p pr-40p bb-4-s-theme capitalize fs-50p'>customer reviews.</span>
             </div>
             <div>
                 <div className='w-90 bfull-resp h-a m-a px-30p py-40p bp-20p-resp bsbb'>

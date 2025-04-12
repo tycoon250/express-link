@@ -90,7 +90,7 @@ const Contact = () => {
                                 <div className="w-a  h-60p mt-10p p-r right mb-10p p-10p bsbb">
                                     <div className="w-100 igrid">
                                         <span className="center iblock">
-                                            <button type="submit" className="bc-theme br-2p hover-2 p-15p b-none w-150p br-20p">
+                                            <button type="submit" className="bc-theme br-2p hover-2 p-15p b-none w-150p br-10p">
                                                 <span className="verdana white fs-15p capitalize">send message</span>
                                             </button>
                                         </span>
