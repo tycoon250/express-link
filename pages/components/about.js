@@ -15,7 +15,7 @@ const About = () => {
                 We deliver care-focused, respectful, and timely service.
                 Everyone deserves dignity and access to care.
                 We bridge patients to providers with ease and compassion.
-                Founded in 2025, committed to accessible, reliable transport.
+                We are committed to accessible, reliable transport.
                 </span>
             </div>
 
