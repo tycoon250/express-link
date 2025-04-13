@@ -9,9 +9,9 @@ const Nav = () => {
                     <div className='center center w-300p bfull-resp h-100'>
                         <a className="h-100 p-r block w-a px-10p bsbb us-none no-outline td-none" href="#home">
                             <img 
-                                src="/assets/logo-nav.png" 
+                                src="/assets/logo-nav-trans.png" 
                                 alt="logo"
-                                className="fill w-250p h-70p center no-outline us-none"  
+                                className="fill w-100p h-80p center no-outline us-none"  
                             />
                         </a>
 
@@ -21,7 +21,7 @@ const Nav = () => {
                     <ul className="flex ls-none jc-sb py-10p bsbb m-0 w-70">
                         <li className="nav-item"><a className="td-none hover-theme ddgray" href="#about">About</a></li>
                         <li className="nav-item"><a className="td-none hover-theme ddgray" href="#features">Features</a></li>
-                        <li className="nav-item"><a className="td-none hover-theme ddgray" href="#faq">FAQ</a></li>
+                        {/* <li className="nav-item"><a className="td-none hover-theme ddgray" href="#faq">FAQ</a></li> */}
                         <li className="nav-item"><a className="td-none hover-theme ddgray" href="#reviews">Reviews</a></li>
                     </ul>
                     <ul className="flex ls-none jc-sb py-10p bsbb m-0 w-40">

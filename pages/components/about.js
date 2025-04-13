@@ -12,7 +12,8 @@ const About = () => {
             <div className='w-90 bfull-resp h-a m-a px-30p py-40p bp-20p-resp bsbb'>
                 <span className='ddgray fs-25p'>
                     We are a non-emergency medical transportation provider offering ambulatory, wheelchair, and gurney/stretcher transport. Our commitment is simple: deliver care-focused, respectful, and timely service every single time.<br />
-                    Our diverse team shares one belief—no one chooses illness or injury, but everyone deserves comfort, dignity, and access to the care they need. At ExpressLink, we bridge the gap between patients and providers, helping you get there with ease and compassion.
+                    Our diverse team shares one belief—no one chooses illness or injury, but everyone deserves comfort, dignity, and access to the care they need. At ExpressLink, we bridge the gap between patients and providers, helping you get there with ease and compassion.<br />
+                    Founded in 2025, we have been dedicated to making transportation services accessible and reliable for everyone in need. Our actions and services have been rooted in this mission since 2025.
                 </span>
             </div>
 
