@@ -610,7 +610,10 @@ body{
   margin-bottom: 10px;
   padding: 0px 100px;
 }
-
+.no-wrap{
+  
+  white-space: nowrap;
+}
 .benefit-column {
   flex: 1;
   min-width: 300px;

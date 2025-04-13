@@ -4,11 +4,11 @@ import React from 'react';
 const HomePage = () => {
     return (
         <div id='home' className='p-r h-100-f'>
-            <div className='w-100 h-100 p-a zi--1 hidden-resp'>
+            <div className='w-100 h-100 p-a zi--1'>
                 <img src='/assets/wheel-chair.jpg' className="cover w-100 h-100" />
             </div>
             <div className='zi-10 bc-gradient-white h-100'>
-                <div className='w-100 h-150p p-10p bsbb hide'>
+                <div className='w-100 h-150p p-10p bsbb hide hidden-resp'>
                     <img src="/assets/logo-nav.png" className='contain w-500p h-250p bh-a-resp bfull-resp' />
                 </div>
                 <div className='w-40 bfull-resp h-a bp-10p-resp px-40p bsbb'>
@@ -16,7 +16,7 @@ const HomePage = () => {
                 </div>
                 <div className='text-content'>
                     <div className='bcenter-500p-resp w-50 bfull-resp px-40p bp-10p-resp bsbb'>
-                        <p className='dgray fs-20p'>
+                        <p className='ddgray fs-20p'>
                             Reliable and compassionate non-emergency medical transport in Meridian, Idaho, and beyond. Your safe and stress-free journey starts here.
                         </p>
                         <div className='w-100 h-a bcenter-500p-resp py-30p mb-70p bsbb'>
