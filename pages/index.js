@@ -16,7 +16,7 @@ export default function Home() {
             <HomePage />
             <About/>
             <Services/>
-            <FAQ/>
+            {/* <FAQ/> */}
             <Reviews/>
             <Contact/>
             <Footer/>
