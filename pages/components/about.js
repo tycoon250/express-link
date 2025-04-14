@@ -10,7 +10,7 @@ const About = () => {
 
             {/* Description Section */}
             <div className='w-90 bfull-resp h-a m-a px-30p py-40p bp-20p-resp bsbb'>
-                <span className='ddgray fs-25p'>
+                <span className='ddgray fs-20p'>
                 ExpressLink offers non-emergency medical transport—ambulatory, wheelchair & stretcher.
                 We deliver care-focused, respectful, and timely service.
                 Everyone deserves dignity and access to care.

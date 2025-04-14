@@ -9,7 +9,7 @@ const Services = () => {
                 </span>
             </div>
             <div className='w-90 bfull-resp h-a m-a px-30p py-40p bp-20p-resp bsbb'>
-                <p className='ddgray fs-30p'>
+                <p className='ddgray fs-20p'>
                     Express Link Medical Transportation offers non-emergency medical transport services tailored to your needs. Whether ambulatory, wheelchair, or gurney transportation, we ensure comfort, care, and security for your loved ones. Serving a 500-mile radius from Boise, ID, we go the extra mile to provide personalized services, including pillows, music, or even airport rides. Choose Express Link for peace of mind and exceptional care.
                 </p>
             </div>
